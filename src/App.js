@@ -41,7 +41,7 @@ function App() {
     setvisible(true)
   }
 
-  let mes1 = "✅ Message sent! ";
+  let mes1 = "✅ Message sent!";
   let mes2 = "Thanks for Completing the form.";
   let err1 = "❌ Message not sent!";
   let err2 = "Fix the errors and submit again!";
